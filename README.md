@@ -1,7 +1,7 @@
 # NodeJS-VueJS
 
 ## To run backend using NodeJS:
-1. Open Command Prompt in Vue-server folder
+1. Open Command Prompt in node-server folder
 2. In cmd, run <b>npm i</b>
 3. In cmd, run <b>npm i -g express-generator</b>
 4. In cmd, run npm start
